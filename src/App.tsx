@@ -4,6 +4,7 @@ import { Route, Routes } from "react-router-dom";
 import PrivateRoute from "./utils/router/private.route";
 import AuthRootComponent from "./components/auth";
 
+
 function App() {
   return (
     <div className="App">
